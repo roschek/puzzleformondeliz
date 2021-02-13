@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'MADE Evolve Sans EVO';
+    src: url('MADEEvolveSansEVO-Bold.woff2') format('woff2'),
+        url('MADEEvolveSansEVO-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans EVO';
+    src: url('MADEEvolveSansEVO-Light.woff2') format('woff2'),
+        url('MADEEvolveSansEVO-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Light.woff2') format('woff2'),
+        url('MADEEvolveSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Bold.woff2') format('woff2'),
+        url('MADEEvolveSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans EVO';
+    src: url('MADEEvolveSansEVO.woff2') format('woff2'),
+        url('MADEEvolveSansEVO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans.woff2') format('woff2'),
+        url('MADEEvolveSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Medium.woff2') format('woff2'),
+        url('MADEEvolveSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Thin.woff2') format('woff2'),
+        url('MADEEvolveSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans EVO';
+    src: url('MADEEvolveSansEVO-Thin.woff2') format('woff2'),
+        url('MADEEvolveSansEVO-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans EVO';
+    src: url('MADEEvolveSansEVO-Medium.woff2') format('woff2'),
+        url('MADEEvolveSansEVO-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-ExtraLight.woff2') format('woff2'),
+        url('YanoneKaffeesatz-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-Bold.woff2') format('woff2'),
+        url('YanoneKaffeesatz-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-SemiBold.woff2') format('woff2'),
+        url('YanoneKaffeesatz-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-Regular.woff2') format('woff2'),
+        url('YanoneKaffeesatz-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-Light.woff2') format('woff2'),
+        url('YanoneKaffeesatz-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('YanoneKaffeesatz-Medium.woff2') format('woff2'),
+        url('YanoneKaffeesatz-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
