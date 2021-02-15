@@ -27,7 +27,7 @@ const dragOver = function (evt) {
 const drop = function (evt) {
   evt.preventDefault()
   let imageId = evt.dataTransfer.getData("text")
-  let transferCard = document.getElementById(imageId)
+
   let numberTransferCard = imageId.replace(/[a-zа-яё]/gi, '')
   if (evt.target.id === numberTransferCard && evt.target.id === "1") {
 
