@@ -6,12 +6,13 @@ const puzzleTrigger = function(){
   if(filled.length === 6){
     const puzzleItems = document.querySelectorAll('.puzzle-image')
     const contentItems = document.querySelectorAll('.content__block')
-    puzzleItems.forEach(elem=> elem.style.visibility="hidden")
-    contentItems.forEach(elem=> elem.classList.add('content__block-visible'))
+    puzzleItems.forEach(elem=> elem.classList.add("hide__opacity"))
+    setTimeout(()=>{contentItems.forEach(elem=> elem.classList.add('content__block-visible'))},300)
+
     document.querySelector('.video-block').style.display = "block"
     setTimeout(()=>{
       document.querySelector('.video-block').classList.add('video-block-visible')
-    },30)
+    },1000)
   }
 }
 const dragStart = function (evt) {
